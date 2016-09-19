@@ -59,6 +59,6 @@ Once a user has selected a collection/tag, items from that collection or which u
 
 A user interacting with an item on the stage can use pinch gestures to resize the item, use two fingers to rotate, and swipe to send the item across the table to a friend. Tapping on the i icon “flips” the item, displaying basic metadata.
 
-To close an active item on the stage, 
+To closwe an active item on the stage, 
 
 Items on the stage will fade out and remove themselves from the stage after a set period of time (this is the attractTime setting in the configuration files)
