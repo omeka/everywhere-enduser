@@ -12,11 +12,14 @@ Using the built-in API in your Omeka site, OECV pulls content from a collection 
 
 - [Installation and Administration](/collectionviewer/CollectionViewer_Technical.md)
 - [Information for Gallery Staff](/collectionviewer/GalleryStaff.md)
-- Guides for Visitors are available [online](/collectionviewer/GalleryVisitor.md) and as a pdf.
+- Guides for Visitors are available [online](/collectionviewer/GalleryVisitor.md) and can be modified to fit your institution.
 
 Omeka Everywhere Mobile Application
 ------------------------------------
+The Omeka Everywhere Mobile Application allows you to take a collection or set of items from you Omeka Classic install and serve them as a smartphone app (Android, Windows, and iTunes). Please note that using the app does not automatically guarantee approval from the app stores for these devices. 
 
+- Setup and Deployment
+- A basic guide for users which can be modified to fit your institution.
 
 
 Funding and Partners

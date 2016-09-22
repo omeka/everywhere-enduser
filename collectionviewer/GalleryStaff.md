@@ -1,3 +1,7 @@
+---
+title: Omeka Everywhere Collections Viewer Gallery Staff Documentation
+---
+
 [what to do if it's borked; prompting user interaction]
 Once the Omeka Collection Viewer has launched, visitors can follow the prompts on the screen.
 
@@ -11,4 +15,4 @@ A user interacting with an item on the stage can use pinch gestures to resize th
 
 To close an active item on the stage, 
 
-Items on the stage will fade out and remove themselves from the stage after a set period of time (this is the attractTime setting in the configuration files)
+Items on the stage will fade out and remove themselves from the stage after a set period of time (this is the attractTime setting in the configuration files)  
