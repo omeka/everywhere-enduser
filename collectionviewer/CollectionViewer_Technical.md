@@ -22,7 +22,7 @@ You will also need to ensure that the API is enabled on your repository. (http:/
 ### Tagging
 Ensure that your tags are systematically applied (that you do not have both “cat” and “cats,” for example). 
 
-You might want to create a list of key tags, as a controlled vocabulary, which users creating content can consult when tagging items. This will help ensure systematic application and consistency. 
+You might want to create a list of key tags, as a controlled vocabulary, which those creating content can consult when tagging items. This will help ensure systematic application and consistency. 
 
 ### Best Practices: Item Files
 Supported file types:
@@ -31,7 +31,6 @@ Supported file types:
 - Audio: mp3
 
 File sizes: 
-??
 
 Shape: thumbnails in the browser load within a square space. Thin, tall, long images may not display well as thumbnails.
 
