@@ -60,3 +60,4 @@ When the item begins to send, the icon on the drop zone will change to look simi
 The drop zone will reset the message after a few seconds, but visitors can immediately send another item to their device it they wish (even while the success message is displayed).
 
 ### Unpairing
+To unpair, the visitor clicks the "tap to unpair" button on the media viewer (where the "send to mobile" message displayed). They can also tap unpair on their device at any time.
