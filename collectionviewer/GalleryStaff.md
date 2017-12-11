@@ -1,15 +1,17 @@
 ---
 title: Omeka Everywhere Collections Viewer Gallery Staff Documentation
 ---
-This documentation is intended to give you a basic idea of how the Omeka Everywhere Collection Viewer works, and how to troubleshoot visitor issues.
+Once the Omeka Collection Viewer has launched, visitors can follow the prompts on the screen.
+
 
 For the course of the documentation, we use the term "table" to refer to the in-house collection viewer, but this may be a tablet or other windows-capable touchscreen device.
 
-Once the Omeka Everywhere Collection Viewer is running, the table will display an attract pool of four images which will rotate in and out. 
+The interface loads a drawer at the bottom of the target or, if on a table, on the two long edges of the table. These can be opened or closed by the user. [insert image]
 
-Users can begin engaging with the table either by  
-1. tapping one of the items in the attract pool or
-2. by tapping on one of the "Touch to Being" buttons.
+
+When open, users can browse collections/tags through an alphabetical list. Note that the list is on continuous scroll - to get from Q to A one can scroll in either direction. Once a user has selected a collection/tag, items from that collection or which use that tag will load in the drawer. Users can double-click on the an item to move it from the drawer to the stage.
+
+A user interacting with an item on the stage can use pinch gestures to resize the item, use two fingers to rotate, and swipe to send the item across the table to a friend. Tapping on the i icon “flips” the item, displaying basic metadata.
 
 Tapping on an item in the attract pool will open up an information viewer, showing the item's basic information. 
 
@@ -61,3 +63,4 @@ The drop zone will reset the message after a few seconds, but visitors can immed
 
 ### Unpairing
 To unpair, the visitor clicks the "tap to unpair" button on the media viewer (where the "send to mobile" message displayed). They can also tap unpair on their device at any time.
+
