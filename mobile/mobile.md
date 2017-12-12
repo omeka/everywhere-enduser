@@ -33,6 +33,8 @@ Click the heart to see your likes items. Unlikes an item by clicking on the hear
 
 From the Home screen you can access settings for the app:
 
+![Settings screen, a gray background with lighter white bars for each of the options listed below.](/settingscreen.png)
+
 **Layout** This allows you to set whether the items on the home and likes screens appear in a list view with image and title, or a grid of images.
 
 **Omeka Sites** Add new Omeka site content to your app by entering the url in the "Add new site" section or by scanning a QR code. 
@@ -43,7 +45,7 @@ You can also manage the sites you have loaded. Press and hold a site to remove i
 
 **Clear All Likes** Clicking this will clear all your likes.
 
-**About the Collections** Click through for more information on the featured collection. This text is pulled from *somethign in the source url*
+**About the Collections** Click through for more information on the featured collection.
 
 **About Omeka and Open Exhibits** Learn more about the team behind Omeka Everywhere.
 
