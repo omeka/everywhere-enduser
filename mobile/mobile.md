@@ -43,7 +43,7 @@ You can also manage the sites you have loaded. Press and hold a site to remove i
 
 **Pair with Collection Viewer Table** If you are in an exhibit or gallery with an Omeka Everywhere Connection Viewer Table, you can pair your mobile with the table and save items from the table to the app.
 
-**Clear All Likes** Clicking this will clear all your likes.
+**Clear All Likes** When you tap on this bar, you will have the option to click again to delete all your current likes in the app. This action is not reversible. 
 
 **About the Collections** Click through for more information on the featured collection.
 
