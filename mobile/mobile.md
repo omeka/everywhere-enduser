@@ -33,7 +33,7 @@ Click the heart to see your likes items. Unlikes an item by clicking on the hear
 
 From the Home screen you can access settings for the app:
 
-![Settings screen, a gray background with lighter white bars for each of the options listed below.](/settingscreen.png)
+![Settings screen, a gray background with lighter white bars for each of the options listed below.](../mobile/settingsscreen.png)
 
 **Layout** This allows you to set whether the items on the home and likes screens appear in a list view with image and title, or a grid of images.
 
