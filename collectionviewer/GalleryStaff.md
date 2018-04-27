@@ -47,9 +47,9 @@ Please note that a visitor can only have five items open on the table at a time.
 ### Pairing
 Once a visitor has installed an Omeka Everywhere app on their mobile device, they can pair their device with the table.
 
-To start, they visitor clicks the *Send to Mobile* button on the upper right-hand corner of their media viewer (where the Carousel is). A window will appear to the right of their media viewer, in the same color, with a four digit code.
+To start, they visitor clicks the *Send to Mobile* button on the upper right-hand corner of their media viewer (where the Carousel is). A window will appear to the right of their media viewer, in the same color, with a QR code.
 
-On their mobile device, visitors open the application running Omeka Everywhere and go to settings. There, they select "Pair with Exhibit Collection Viewer" and enter the four-digit code displayed on the table (NB They will need to have bluetooth turned on for this to work).
+On their mobile device, visitors open the application running Omeka Everywhere and go to settings. There, they select "Pair with Exhibit Collection Viewer" and use their device's camera to scan the QR code (note that visitors may have to give the application permission to access the camera).
 
 Once the devices are successfully paired, the area where the code displayed becomes the "drop zone" with the message "drag files here to send to mobile app"
 

@@ -1,2 +1,2 @@
 # everywhere-enduser
-End user documentation for Omeka Everywhere
+User-friendly documentation for Omeka Everywhere Collection Viewer and Mobile Application. These documents are meant to be helpful to those deploying Omeka Everywhere in communicating how the interfaces work to their visitors. 
